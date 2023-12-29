@@ -1,4 +1,5 @@
----
+,---kod
+
 Order: 6
 Area: setup
 TOCTitle: Network
@@ -114,3 +115,4 @@ Here are some helpful links that might help you troubleshoot networking issues i
 * [Debugging problems with the network proxy](https://www.chromium.org/developers/design-documents/network-stack/debugging-net-proxy)
 * [Configuring a SOCKS proxy server in Chrome](https://www.chromium.org/developers/design-documents/network-stack/socks-proxy)
 * [Proxy settings and fallback (Windows)](https://www.chromium.org/developers/design-documents/network-stack/proxy-settings-fallback)
+;romdom
